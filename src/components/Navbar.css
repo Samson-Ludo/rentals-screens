@@ -1,0 +1,25 @@
+.navbar {
+  background-color: #211f21 !important;
+}
+.navbar-buttons {
+  margin: 0 0 0 95%;
+}
+
+.navbar-login-btn {
+  background-color: #93227f !important;
+  color: white !important;
+  border-radius: 30px !important;
+}
+/* small phones  */
+@media only screen and (max-width: 600px) {
+  .navbar-buttons {
+    margin: 0 0 0 40%;
+  }
+}
+
+/* tablets  */
+@media only screen and (min-width: 600px) {
+  .navbar-buttons {
+    margin: 0 0 0 70%;
+  }
+}

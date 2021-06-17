@@ -1,0 +1,42 @@
+#findProperty-form {
+  margin: 50px auto 0 auto;
+  background: inherit;
+}
+.title {
+  padding-left: 12px;
+  color: #ffffff;
+}
+
+.findProperty-beds {
+  display: flex !important;
+  color: #ffffff !important;
+  flex-direction: row;
+}
+
+.findProperty-beds-textField {
+  color: #ffffff !important;
+  width: 50% !important;
+}
+
+.findProperty-prices {
+  display: flex !important;
+  color: #ffffff !important;
+  flex-direction: row;
+}
+
+.findProperty-prices-textField {
+  width: 50% !important;
+}
+
+#findProperty-submitBtn {
+  margin-left: 10px;
+  width: 282px;
+  background-color: #d41553;
+  color: #ffffff !important;
+}
+
+.bg-dark {
+  background: #0c0b0b;
+  border-radius: 8.5px;
+  color: #ffffff !important;
+}
