@@ -1,6 +1,5 @@
 import "./App.css";
 
-import Navbar from "./components/Navbar";
 import ResponsiveDrawer from "./components/ResponsiveDrawer";
 
 function App() {
